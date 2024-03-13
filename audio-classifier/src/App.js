@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Audio Classifier
+          Audio Classifier UI
         </a>
       </header>
     </div>
